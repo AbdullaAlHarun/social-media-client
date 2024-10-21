@@ -1,2 +1,2 @@
-const unformatted = "Test"
-console.log( unformatted );
+const unformatted = 'Test'
+console.log( unformatted )
