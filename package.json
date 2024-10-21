@@ -9,7 +9,7 @@
     "start": "sass --watch src/scss:dist/css & live-server",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "husky": "husky install"
+    "postinstall": "husky install"
   },
   "keywords": [],
   "author": "Noroff",
