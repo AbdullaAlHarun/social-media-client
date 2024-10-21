@@ -1,2 +1,2 @@
-const unformattedVariable = 'This is a test'
-console.log( unformattedVariable )
+const testVariable = 'This should trigger lint';
+console.log(testVariable);
